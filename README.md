@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LAPOULEQUICHANTE.png" alt="Logo La Poule qui Chante" width="400"/>
+  <img src="LAPOULEQUICHANTE.png" alt="Logo La Poule qui Chante" width="600"/>
 </p>
 
 # 🐔 La Poule qui Chante – Étude de marché pour l’exportation internationale
